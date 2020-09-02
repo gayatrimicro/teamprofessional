@@ -1,0 +1,27 @@
+Download the zip file and extract the files. You will have a folder called Photo_Gallery4 which will have photos.xml, flashshow.html, flashshow.swf and a photos folder. 
+
+Make sure your images are in the following dimensions and in .jpg format : 
+Width : 345px
+Height : 525px 
+
+Copy all the images to the folder called photos.
+
+Open photos.xml and edit the file names and headings. E.g
+<pic> 
+<image>ice1.jpg</image> 
+<caption>Cheery Pie ala Mode</caption> 
+</pic>
+ice1.jpg and Cheery Pie ala Mode should be changed to your image filename and image caption 
+
+
+To delete images simply delete the block of code pertaining to that image in the xml file and delete that image from the photos folder.
+
+To add additional images, simply copy a new block of code similar as above and edit the file name and the caption. 
+
+
+
+Terms of Use 
+
+The Entheos Flash Photo Galleries may be used in any kinds of personal and/or commercial projects. 
+
+The Entheos Flash Photo Galleries may not be redistributed or resold to other companies or third parties.

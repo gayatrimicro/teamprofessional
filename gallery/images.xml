@@ -1,0 +1,325 @@
+<items relativepath="true">
+
+<item path="images/project1.jpg" thumbnail="thumbnails/project1_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF"><a href="#">Mermit tower Lower Parel</a></font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project2.jpg" thumbnail="thumbnails/project2_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">Mermit tower Lower Parel </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project3.jpg" thumbnail="thumbnails/project3_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">Vikas Chambers (Surat) </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project4.jpg" thumbnail="thumbnails/project4_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">Vikas Chambers (Surat) </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+
+<item path="images/project5.jpg" thumbnail="thumbnails/project5_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">Tata Consultancy Services </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project6.jpg" thumbnail="thumbnails/project6_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF"> Tata Consultancy Services </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project7.jpg" thumbnail="thumbnails/project7_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">IMI Mobile  </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project8.jpg" thumbnail="thumbnails/project8_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF"> Citi Centre Hyderabad  </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project9.jpg" thumbnail="thumbnails/project9_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">Studio Rion </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project10.jpg" thumbnail="thumbnails/project10_small.jpg" width="422" height="284">
+	<title><![CDATA[<font size="12" color="#FFFFFF">Jewel Pawani Tower Hyderabad </font>]]></title>
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project12.jpg" thumbnail="thumbnails/project12.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project13.jpg" thumbnail="thumbnails/project13.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project14.jpg" thumbnail="thumbnails/project14.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project15.jpg" thumbnail="thumbnails/project15.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project16.jpg" thumbnail="thumbnails/project16.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project17.jpg" thumbnail="thumbnails/project17.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project18.jpg" thumbnail="thumbnails/project18.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project19.jpg" thumbnail="thumbnails/project19.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project20.jpg" thumbnail="thumbnails/project20.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project21.jpg" thumbnail="thumbnails/project21.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project22.jpg" thumbnail="thumbnails/project22.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project23.jpg" thumbnail="thumbnails/project23.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project24.jpg" thumbnail="thumbnails/project24.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project25.jpg" thumbnail="thumbnails/project25.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project26.jpg" thumbnail="thumbnails/project26.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project27.jpg" thumbnail="thumbnails/project27.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project28.jpg" thumbnail="thumbnails/project28.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project29.jpg" thumbnail="thumbnails/project29.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project30.jpg" thumbnail="thumbnails/project30.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project31.jpg" thumbnail="thumbnails/project31.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project32.jpg" thumbnail="thumbnails/project32.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project33.jpg" thumbnail="thumbnails/project33.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project34.jpg" thumbnail="thumbnails/project34.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project35.jpg" thumbnail="thumbnails/project35.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+<item path="images/project36.jpg" thumbnail="thumbnails/project36.jpg" width="422" height="284">
+	<!-- <title><![CDATA[<font size="12" color="#FFFFFF"> </font>]]></title> -->
+	<transitionDuration>2</transitionDuration>
+	<titleAlign>2</titleAlign>
+	<slideShowInterval>5</slideShowInterval>
+	<section>5</section>
+	<direction>3</direction>
+</item>
+
+
+
+
+
+</items>
+
+
