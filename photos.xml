@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <images>
-    <!-- <pic>
+    <pic>
         <image>ice8.jpg</image>
-        <caption>Artistic de</caption>
-    </pic> -->
+        <caption>&nbsp;</caption>
+    </pic>
+    <pic>
+        <image>ice9.jpg</image>
+        <caption>&nbsp;</caption>
+    </pic>
+    <pic>
+        <image>ice10.jpg</image>
+        <caption>&nbsp;</caption>
+    </pic>
+    <pic>
+        <image>ice11.jpg</image>
+        <caption>&nbsp;</caption>
+    </pic>
     <pic>
         <image>ice1.jpg</image>
         <caption>Spiral Glass Stairway</caption>
